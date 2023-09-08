@@ -1,0 +1,17 @@
+th,td{
+    padding: 15px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+   background-color: cornsilk;
+}
+
+table,th,td {
+    border: 1px solid olivedrab;
+}
+
+button{
+    color: brown;
+}
